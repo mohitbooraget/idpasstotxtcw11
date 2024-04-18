@@ -31,7 +31,7 @@ async def account_login(bot: Client, m: Message):
                               "**NOW:-** "
                                        
                                        "Press **/login** to continue..\n\n"
-                                     "Bot made by **Ayush**" )
+                                     "Bot made by **𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊**" )
 
 ACCOUNT_ID = "6206459123001"
 BCOV_POLICY = "BCpkADawqM22pe6lllPFfUMQfj47agK1PJ_Sb3P_jty9S9_yCNwT87DTolChZKFm091O3K6UCQ61qHUHBgJg811eub1T1Bqn2HHYPkGrrknKaHDgj-ofQZnWBUZJNMaKHfDFd5HoVbeQtqEgVDJHMO9Oq7q5YLIaX9MYaaDreXLDWkxzVvrng6HXTz3whbyoYzOv_4bks3_8HOqCcqkbQL6XZehh398zRw6zPjO42okH0WoX-KNmjcICMpg"
