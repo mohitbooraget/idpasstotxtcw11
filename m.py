@@ -47,7 +47,7 @@ async def start(bot, update):
                               "Press **/login** to continue..\n\n"
                                      
                               "Hello im txt file downloader\nPress /pyro to download links listed in a txt file in the format **Name:link**\n\n"
-                              "Bot made by **『 🅰🅸🆁 🅿🅷🅴🅾🅽🅸🆇™ 』**")
+                              "Bot made by **『 Einstein Amarjeet』**")
         
 
 ACCOUNT_ID = "6206459123001"
