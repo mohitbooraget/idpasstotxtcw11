@@ -28,9 +28,9 @@ os.makedirs("./downloads", exist_ok=True)
 
 bot = Client(
     "CW",
-    api_id= 27803618,
-    api_hash= "2cdaef9643189f6bd9c7b31a70257356",
-    bot_token= "7012342197:AAFTFGxXV7vN0oVdopz3s9xM_GluDWltKEo")
+    api_id= 9438917,
+    api_hash= "b86192c6db595de8e8863b43648c55da",
+    bot_token= "6606738353:AAGLmO0ZG2YaOKy8ni-M4fjjoyAphFGRqjk")
 
 logger = logging.getLogger()
 # thumb = os.environ.get("THUMB")
@@ -46,7 +46,7 @@ async def start(bot, update):
                               "Press **/login** to continue..\n\n"
                                      
                               "Hello im txt file downloader\nPress /pyro to download links listed in a txt file in the format **Name:link**\n\n"
-                              "Bot made by **『 🅰🅸🆁 🅿🅷🅴🅾🅽🅸🆇™ 』**")
+                              "Bot made by **『 Einstein Amarjeet 』**")
         
 
 ACCOUNT_ID = "6206459123001"
