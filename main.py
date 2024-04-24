@@ -85,7 +85,7 @@ async def account_login(bot: Client, m: Message):
     scraper = cloudscraper.create_scraper()
     html = scraper.post(url,data,headers).content
     output0 = json.loads(html)
-    "data" in output0 and "token" in output0["data"]:
+    data" in output0 and "token" in output0["data"]:["token"]
     #await m.reply_text(soup)
     #token=str(input())
     await editable.edit("**login Successful**")
